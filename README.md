@@ -16,7 +16,7 @@ user: agungsurya
 pass: gung
 
 
-![image](https://github.com/agungsoboru/docker-collection/blob/main/photo_2023-02-23_15-50-49.jpg)
+![image](https://github.com/agungsoboru/docker-collection/blob/main/photo_2023-02-23_15-51-04.jpg)
 
 docker run -p 3399:3389 agungsurya/ubuntu-gui:kali-linux
 
