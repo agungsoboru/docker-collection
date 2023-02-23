@@ -10,7 +10,7 @@ pass :ubuntu
 
 ![image](https://github.com/agungsoboru/docker-collection/blob/main/photo_2023-02-23_15-50-57.jpg)
 
-docker run --name ubuntu-mate --privileged=true -p 3389:3389 agungsurya/ubuntu-gui:ubuntu-mate
+`docker run --name ubuntu-mate --privileged=true -p 3389:3389 agungsurya/ubuntu-gui:ubuntu-mate`
 
 user: agungsurya
 pass: gung
@@ -18,7 +18,7 @@ pass: gung
 
 ![image](https://github.com/agungsoboru/docker-collection/blob/main/photo_2023-02-23_15-51-04.jpg)
 
-docker run -p 3399:3389 agungsurya/ubuntu-gui:kali-linux
+`docker run -p 3399:3389 agungsurya/ubuntu-gui:kali-linux`
 
 user: root
 pass: gung
